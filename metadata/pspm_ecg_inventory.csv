@@ -1,0 +1,63 @@
+dataset,zenodo_record,ecg_recorded,ecg_sampling_rate_hz,physiological_files_checked,evidence,status
+AOB,https://zenodo.org/records/3608706,no,n/a,66,No ECG channel in any of 66 physiological files.,verified
+BAER,https://zenodo.org/records/269654,no,n/a,160,No ECG channel in any of 160 physiological files.,verified
+CogSF,https://zenodo.org/records/3900168,yes,1000,20,ECG channel header found in 20 of 20 physiological files.,verified
+CTX2,https://zenodo.org/records/6418684,yes,2000,46,ECG channel header found in 46 of 46 physiological files.,verified
+CTX3,https://zenodo.org/records/6418992,yes,2000,56,ECG channel header found in 56 of 56 physiological files.,verified
+CFG1,https://zenodo.org/records/6419011,yes,2000,58,ECG channel header in every physiological MAT file,verified
+CFG2,https://zenodo.org/records/6419020,yes,2000,48,ECG channel header in every physiological MAT file,verified
+DoxAv1,https://zenodo.org/records/6594800,yes,2000,388,ECG channel header found in 194 of 388 physiological files.,verified
+DoxAv2,https://zenodo.org/records/7601734,yes,2000,300,ECG channel header in every physiological MAT file,verified
+DoxMemP,https://zenodo.org/records/1887738,yes,1000,40,ECG channel header in every WDQ MAT file,verified
+DoxMem1,https://zenodo.org/records/1887580,yes,1000,156,ECG channel header in every WDQ MAT file,verified
+DoxMem2,https://zenodo.org/records/3460921,yes,1000,237,ECG channel header in every WDQ MAT file,verified
+EWO,https://zenodo.org/records/4147043,no,n/a,74,No ECG channel in any of 74 physiological files.,verified
+FER01,https://zenodo.org/records/5650832,yes,1000,30,ECG channel header in every WDQ MAT file,verified
+FER02,https://zenodo.org/records/10491934,yes,1000,218,ECG channel header in every WDQ MAT file,verified
+FR,https://zenodo.org/records/1405394,yes,1000,62,ECG channel header in every WDQ MAT file,verified
+FSS6B,https://zenodo.org/records/7334479,no,n/a,18,No ECG channel in any WDQ MAT file,verified
+FSS7B,https://zenodo.org/records/6377103,no,n/a,390,No ECG channel in any of 390 physiological files.,verified
+HRA1,https://zenodo.org/records/321641,no,n/a,20,No ECG channel in any of 20 physiological files.,verified
+HRM_IAPS,https://zenodo.org/records/2592194,yes,1000,23,ECG channel header found in 23 of 23 physiological files.,verified
+HRM1-2,https://zenodo.org/records/3836480,yes,200,114,ECG channel header found in 114 of 114 physiological files.,verified
+HRM5,https://zenodo.org/records/3860807,yes,1000,19,ECG channel header found in 19 of 19 physiological files.,verified
+LI,https://zenodo.org/records/1288494,yes,1000,40,ECG channel header in every WDQ MAT file,verified
+MinAv,https://zenodo.org/records/7601792,yes,2000,317,ECG channel header in every physiological MAT file,verified
+NK,https://zenodo.org/records/61718,no,n/a,128,No ECG channel in any of 128 physiological files.,verified
+PCF2,https://zenodo.org/records/7313441,yes,1000,38,ECG channel header found in 19 of 38 physiological files.,verified
+PCF3,https://zenodo.org/records/10849996,no,n/a,62,No ECG channel in any of 62 physiological files.,verified
+PIT1,https://zenodo.org/records/2641734,yes,1000,132,ECG channel header found in 66 of 132 physiological files.,verified
+PIT2,https://zenodo.org/records/2641738,yes,1000,228,ECG channel header found in 114 of 228 physiological files.,verified
+PubFe,https://zenodo.org/records/5573788,yes,1000,44,ECG channel header in every WDQ MAT file,verified
+REW1,https://zenodo.org/records/12580447,yes,2000,148,ECG channel header found in 74 of 148 physiological files.,verified
+REW2,https://zenodo.org/records/12580464,yes,2000,134,ECG channel header found in 67 of 134 physiological files.,verified
+RRM1-2,https://zenodo.org/records/3405226,yes,1000,51,ECG channel header found in 51 of 51 physiological files.,verified
+RRM3,https://zenodo.org/records/3428709,yes,1000,20,ECG channel header found in 20 of 20 physiological files.,verified
+SC2F,https://zenodo.org/records/4045656,yes,500,162,ECG channel header found in 144 of 162 physiological files.,verified
+SC4B,https://zenodo.org/records/5573810,yes,1000,21,ECG channel header in every WDQ MAT file,verified
+SCBD,https://zenodo.org/records/4115079,no,n/a,11,No ECG channel in any of 11 physiological files.,verified
+SCB2D,https://zenodo.org/records/4071223,no,n/a,22,No ECG channel in any of 22 physiological files.,verified
+SCRV1,https://zenodo.org/records/269659,no,n/a,24,No ECG channel in any of 24 physiological files.,verified
+SCRV2,https://zenodo.org/records/274919,no,n/a,24,No ECG channel in any of 24 physiological files.,verified
+SCRV3,https://zenodo.org/records/274963,no,n/a,22,No ECG channel in any of 22 physiological files.,verified
+SCRV4,https://zenodo.org/records/274992,no,n/a,32,No ECG channel in any of 32 physiological files.,verified
+SCRV5,https://zenodo.org/records/291445,no,n/a,20,No ECG channel in any of 20 physiological files.,verified
+SCRV6,https://zenodo.org/records/291446,no,n/a,19,No ECG channel in any of 19 physiological files.,verified
+SCRV7,https://zenodo.org/records/291448,no,n/a,22,No ECG channel in any of 22 physiological files.,verified
+SCRV9,https://zenodo.org/records/291449,no,n/a,22,No ECG channel in any of 22 physiological files.,verified
+SCRV10,https://zenodo.org/records/291465,no,n/a,26,No ECG channel in any of 26 physiological files.,verified
+SF,https://zenodo.org/records/4059297,yes,500,180,ECG channel header found in 160 of 180 physiological files.,verified
+SMD,https://zenodo.org/records/3430920,yes,1000,19,ECG channel header found in 19 of 19 physiological files.,verified
+SSNA_1-2,https://zenodo.org/records/3865363,no,n/a,14,No ECG channel in any of 14 physiological files.,verified
+SSNA_3,https://zenodo.org/records/3891581,no,n/a,6,No ECG channel in any of 6 physiological files.,verified
+TC,https://zenodo.org/records/1404810,yes,1000,19,ECG channel header in every WDQ MAT file,verified
+TCF1,https://zenodo.org/records/6024202,yes,2000,112,ECG channel header found in 56 of 112 physiological files.,verified
+TFC2,https://zenodo.org/records/6024245,yes,2000,112,ECG channel header found in 56 of 112 physiological files.,verified
+trSP1,https://zenodo.org/records/3515884,no,n/a,60,No ECG channel in any of 60 physiological files.,verified
+trSP2,https://zenodo.org/records/3515939,no,n/a,40,No ECG channel in any of 40 physiological files.,verified
+trSP3,https://zenodo.org/records/3611484,no,n/a,40,No ECG channel in any of 40 physiological files.,verified
+trSP4,https://zenodo.org/records/3611490,no,n/a,42,No ECG channel in any of 42 physiological files.,verified
+VC1F,https://zenodo.org/records/3980837,yes,500,378,ECG channel header found in 336 of 378 physiological files.,verified
+VC7B,https://zenodo.org/records/5573833,no,n/a,21,No ECG channel in any WDQ MAT file,verified
+VIS,https://zenodo.org/records/3667714,yes,1000,58,ECG channel header found in 29 of 58 physiological files.,verified
+LSOA,https://zenodo.org/records/3835557,yes,1000,22,ECG channel header in every WinDaq MAT file,verified
