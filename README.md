@@ -1,9 +1,12 @@
-# SCRFear
+# SCRfear
 
-<img src="docs/logo.png" alt="SCRFear logo" align="right" height="150" hspace="10">
-SCRFear converts public fear-conditioning skin-conductance datasets from the
-[PsPM open data collection](https://bachlab.github.io/PsPM/opendata/) to a
-common [BIDS](https://bids.neuroimaging.io/) layout, and can combine them into
+<img src="docs/Logo_SCRfear.png" alt="SCRfear logo" align="right" height="150" hspace="10">
+[Continuous SCR data from N = 543 participants undergoing fear acquisition with different ISIs and different settings, combining data from 17 experiments.]
+
+
+SCRfear converts public fear-conditioning skin-conductance datasets from the
+[PsPM open data collection](https://bachlab.github.io/PsPM/opendata/) to the [M-BIDS](https://github.com/bachlab/M-BIDS) format consistent with [BIDS](https://bids.neuroimaging.io/), 
+and can combine them into
 a single corpus. The source datasets are downloaded from Zenodo.
 Dataset-specific differences are defined in configuration.
 
@@ -33,7 +36,7 @@ the same `physio` directory as their corresponding SCR recording.
 
 ## Set-up
 
-SCRFear requires Python 3.10 or newer. Clone the repository, then create a
+SCRfear requires Python 3.10 or newer. Clone the repository, then create a
 virtual environment and install the project from the repository root:
 
 ```powershell
@@ -137,11 +140,11 @@ scrfear combine --help
 
 ## Source data and citation
 
-SCRFear does not include any physiological data. Each dataset is downloaded
+SCRfear does not include any physiological data. Each dataset is downloaded
 from its Zenodo record, and the record's licence and citation apply to the
 data. Every converted dataset lists its authors and Zenodo source in
 `dataset_description.json`. Please cite the original datasets when you use
-the converted data.
+the converted data, and cite [de Vries et al. (2026). preprint](https://osf.io/preprints/psyarxiv/abe4t) for the collection.
 
 ## Tests
 
