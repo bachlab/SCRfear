@@ -1,8 +1,8 @@
 # SCRfear
 
 <img src="docs/Logo_SCRfear.png" alt="SCRfear logo" align="right" height="150" hspace="10">
-*Continuous SCR data from N = 543 participants undergoing fear acquisition with different ISIs and different settings, combining data from 17 experiments.*
-
+Continuous SCR data from N = 543 participants undergoing fear acquisition with different ISIs and different settings, combining data from 17 experiments.
+ 
 
 SCRfear converts public fear-conditioning skin-conductance datasets from the
 [PsPM open data collection](https://bachlab.github.io/PsPM/opendata/) to the
