@@ -148,6 +148,16 @@ data. Every converted dataset lists its authors and Zenodo source in
 `dataset_description.json`. Please cite the original datasets when you use
 the converted data, and cite [de Vries et al. (2026). preprint](https://osf.io/preprints/psyarxiv/abe4t) for the collection.
 
+All source datasets are licensed CC-BY-4.0, except SC4B, which is
+CC-BY-SA-4.0. Converted datasets keep their source licence. A corpus that
+includes SC4B is licensed CC-BY-SA-4.0, because the ShareAlike terms apply to
+the combined data.
+
+## License
+
+SCRfear is licensed under the GNU Affero General Public License v3.0. See
+[LICENSE](LICENSE).
+
 ## Tests
 
 ```powershell

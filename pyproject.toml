@@ -7,6 +7,10 @@ name = "scrfear"
 version = "0.1.0"
 description = "Convert public fear-conditioning skin-conductance datasets to BIDS."
 readme = "README.md"
+license = {file = "LICENSE"}
+classifiers = [
+    "License :: OSI Approved :: GNU Affero General Public License v3",
+]
 requires-python = ">=3.10"
 dependencies = [
     "h5py>=3.8",
