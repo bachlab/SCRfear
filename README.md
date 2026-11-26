@@ -110,6 +110,13 @@ three-column table. The participant list in
 produce 543 participants. DoxMem1, DoxAv2, and MinAv are limited to their
 placebo groups. Use `--force` to rebuild an existing corpus.
 
+Participants who also took part in a pupil recording are linked to the
+PupilFear corpus. `metadata/pupilbench_corpus_overview.csv` maps each
+dataset's original participant ID to its PupilFear corpus ID, and conversion
+writes this ID to the `PupilFearSubjectID` column of `participants.tsv`
+(`n/a` when there is no matching pupil recording). Use `--pupilfear-overview`
+to read the mapping from a different file.
+
 Use `--subjects` for a small test conversion:
 
 ```powershell
